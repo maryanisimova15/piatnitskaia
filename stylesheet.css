@@ -97,6 +97,8 @@ body#index .logo {
     background-color: #333333;
     border-radius: 8px;
     transition: all 0.3s;
+    width: 200px;
+    align-content: center;
 }
 
 .nav-item img {
